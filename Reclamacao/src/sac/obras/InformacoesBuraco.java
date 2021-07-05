@@ -8,7 +8,7 @@ public class InformacoesBuraco {
 	
 	private String rua;
 	private String bairro;
-    private String numeroReclamacao;
+        private String numeroReclamacao;
 	private int tamanho;
 
 	public InformacoesBuraco(String rua, String bairro, int tamanho,
