@@ -8,8 +8,8 @@ public class InformacoesBuraco {
 	
 	private String rua;
 	private String bairro;
+    private String numeroReclamacao;
 	private int tamanho;
-	private String numeroReclamacao;
 
 	public InformacoesBuraco(String rua, String bairro, int tamanho,
 			String numeroReclamacao, Date dataEHora) {
